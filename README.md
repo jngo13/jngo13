@@ -1,5 +1,3 @@
-# Hi, I'm Justin 👋
-
 <img src="https://raw.githubusercontent.com/jngo13/jngo13/master/gh-header.png" alt="my banner">
 
 I'm an aspiring software engineer passionate about using my skills to solve real world problems. I am looking for a summer internship in the field of Computer Science where I can not only contribute my programming and leadership skills, but also learn and gain valuable experience.
