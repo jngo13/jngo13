@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/jngo13/jngo13/master/gh-header.png" alt="my banner">
 
-I am passionate about using my skills to solve real world problems. I am currently looking for opportunities in tech, software engineering, or product management where I can not only contribute my Computer Science and leadership skills, but also learn and gain valuable experience.
+I am passionate about using my skills to solve real world problems. I am currently looking for opportunities where I can not only contribute my Computer Science and leadership skills, but also learn and gain valuable experience.
 
 #### Connect with me on <a href="https://www.linkedin.com/in/justin-ngo13/">LinkedIn</a>
 
