@@ -1,10 +1,9 @@
 <img src="https://raw.githubusercontent.com/jngo13/jngo13/master/gh-header.png" alt="my banner">
 
-I am passionate about using my skills to solve real world problems. I am currently looking for opportunities where I can not only contribute my Computer Science and leadership skills, but also learn and gain valuable experience.
-
+<!--
 #### Connect with me on <a href="https://www.linkedin.com/in/justin-ngo13/">LinkedIn</a>
 
-<!--
+//<!--
 **jngo13/jngo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
